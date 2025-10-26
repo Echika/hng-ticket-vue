@@ -4,7 +4,7 @@ A modern, full-featured ticket management web application built with Vue 3, Vite
 
 ## 🚀 Live Demo
 
-**Live URL:** 
+**Live URL:** https://stellular-blini-420722.netlify.app/
 
 ## 📋 Overview
 
